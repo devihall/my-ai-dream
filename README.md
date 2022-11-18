@@ -46,7 +46,7 @@ This app is deployed in Heroku.
 
 ## Questions
 
-Please send your questions [here](mailto:cristobal@barberis.com?subject=[GitHub]%20Ai%20Dream) or visit [github/brberis](https://github.com/brberis).
+Please send your questions [here](mailto:cristobal@barberis.com?subject=[GitHub]%20Ai%20Dream) (mailto:devis0306@gmail.com?subject=[GitHub]%20Ai%20Dream) or visit [github/brberis](https://github.com/brberis) [github/devihall](https://github.com/devihall) [github/brendasosa0721](https://github.com/brendasosa0721).
 
 ## Credits
 
