@@ -6,9 +6,14 @@
 
 ## Description
 
-An AI-powered creative design platform, which allows users to create original graphics , logos, product concept images, art and realistic images.
+An AI-powered creative design platform, which allows users to create original graphics , logos, product-concept images, art and realistic images.
+
 Graphic design is so important for the success of a business.
-Creating marketing materials can be a process and can take anywhere from 4 to 6 weeks to even months, to complete.
+Creating marketing materials can be a process and can take anywhere from 4 to 6 weeks to even months, to complete. AI Dream can reduce time taken to create marketing campaigns, so business owners can focus on the bigger picture.
+ 
+AI Dream can help make graphic design services more accessible to all consumers, by using an intuitive AI- powered workflow.
+
+Users can simply input their specifications and the AI powered Design Wizard will  generate their creative assets in seconds.
 
 ## Screenshot
 
@@ -42,7 +47,7 @@ Creating marketing materials can be a process and can take anywhere from 4 to 6 
 ## Deployment
 
 This app is deployed in Heroku.
-[Click Here](https://boiling-sea-19359.herokuapp.com/herokuapp.com) to view the demo app.
+[Click Here](https://boiling-sea-19359.herokuapp.com/) to view the demo app.
 
 ## Questions
 
