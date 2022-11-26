@@ -47,7 +47,7 @@ Users can simply input their specifications and the AI powered Design Wizard wil
 ## Deployment
 
 This app is deployed in Heroku.
-[Click Here](https://boiling-sea-19359.herokuapp.com/) to view the demo app.
+[Click Here](https://boiling-sea-19359.herokuapp.com) to view the demo app.
 
 ## Questions
 
